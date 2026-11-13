@@ -3,7 +3,7 @@
   "devCommand": "npm start",
   "installCommand": "npm install",
   "framework": "create-react-app",
-  "public": "public",
+ 
   "env": {
     "REACT_APP_OPENAI_API_KEY": "@openai_api_key",
     "REACT_APP_ANTHROPIC_API_KEY": "@anthropic_api_key"
